@@ -1,0 +1,12 @@
+{
+    "name": "data-server",
+    "version": "0.1.0",
+    "private": true,    
+    "scripts": {
+      "start": "json-server --watch data.json --port 4000"
+   
+    }
+    
+    
+  }
+  
